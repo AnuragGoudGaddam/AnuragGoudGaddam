@@ -1,64 +1,61 @@
-<!-- Hi there, I'm AnuragGoudGaddam 👋 -->
-
 # Hi there, I'm Anurag Goud Gaddam! 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/your-linkedin)
-[![Portfolio](https://img.shields.io/badge/Portfolio-website-green?style=for-the-badge)](https://yourwebsite.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/anurag-gaddam)
 [![GitHub AnuragGoudGaddam](https://img.shields.io/github/followers/AnuragGoudGaddam?label=follow&style=social)](https://github.com/AnuragGoudGaddam)
 
 ---
 
 ## 🚀 About Me
 
-I'm a passionate **Software Developer** (replace with your profession) who loves building impactful solutions with code.  
-Currently, I'm focused on **Full-Stack Development** and exploring new technologies!
+I'm a passionate **Frontend/UI Developer** with 2+ years of experience, currently working at **Eidiko Systems Integrators**.
 
-- 🔭 I’m currently working on: **Awesome Project** (replace with your project)
-- 🌱 I’m learning: **AI, Cloud Computing, and more!**
-- 💬 Ask me about: **JavaScript, Python, or anything tech!**
-- 📫 How to reach me: [your-email@example.com](mailto:your-email@example.com)
-- ⚡ Fun fact: I love **gaming, music, and coffee** ☕
+- 🔭 Currently working on: **React Dashboards, Microservices UI Integration**
+- 🌱 Learning: **AI-integrated UI, Microfrontends, and Spring Boot**
+- 💬 Ask me about: **React, JavaScript, HTML/CSS, and Material-UI**
+- 📫 Reach me at: [anuraggaddam9@gmail.com](mailto:anuraggaddam9@gmail.com)
+- ⚡ Fun fact: I love **gaming, music, and building things that scale** 🎮🎧
 
 ---
 
 ## 🛠️ Skills & Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
-![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazonaws)
-<!-- Add or change skills as needed -->
+![Material-UI](https://img.shields.io/badge/-MaterialUI-black?style=flat-square&logo=mui)
+![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=java)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-black?style=flat-square&logo=springboot)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visualstudiocode)
 
 ---
 
 ## 📌 Featured Projects
 
-- [**Awesome-Project**](https://github.com/AnuragGoudGaddam/awesome-project): Short description of your best project.
-- [**Cool-App**](https://github.com/AnuragGoudGaddam/cool-app): Another project highlight.
-<!-- Add more projects or update links -->
+- [**React-Dashboard-UI**](https://github.com/AnuragGoudGaddam/react-dashboard-ui): Dashboard to manage employees, projects & performance metrics with charts and modals.
+- [**Microservices UI Integration**](https://github.com/AnuragGoudGaddam/microservice-ui): UI layer for Spring Boot-based microservices using React.
+- [**Filter Components in React**](https://github.com/AnuragGoudGaddam/react-filters): Modular filter dialog component with dynamic form handling.
 
 ---
 
 ## 📈 GitHub Stats
 
-![AnuragGoudGaddam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnuragGoudGaddam&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnuragGoudGaddam&layout=compact&theme=radical)
+![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AnuragGoudGaddam&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AnuragGoudGaddam&layout=compact&theme=radical)
 
 ---
 
 ## 🌐 Connect With Me
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin)
-- [Twitter/X](https://twitter.com/your-twitter)
-- [Portfolio](https://yourwebsite.com)
-- [Email](mailto:your-email@example.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/anurag-gaddam)
+- 📧 [Email](mailto:anuraggaddam9@gmail.com)
+- 💻 [GitHub](https://github.com/AnuragGoudGaddam)
 
 ---
 
-_Thanks for visiting my profile!_
+_Thanks for visiting my profile! Have a great day!_
 
 <!--
-✨ Feel free to personalize this README with your own info, projects, and style! ✨
+✨ You can customize this README further with more projects, badges, and flair! ✨
 -->
