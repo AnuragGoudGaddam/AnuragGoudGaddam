@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Frontend/UI Developer** with 2+ years of experience, currently working at **Eidiko Systems Integrators**.
+I'm a passionate **Frontend/UI Developer** with 3+ years of experience, currently working at **Eidiko Systems Integrators**.
 
 - 🔭 Currently working on: **React Dashboards, Microservices UI Integration**
 - 🌱 Learning: **AI-integrated UI, Microfrontends, and Spring Boot**
